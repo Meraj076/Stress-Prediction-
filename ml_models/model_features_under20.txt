@@ -1,0 +1,25 @@
+Gender
+Age
+Have you recently experienced stress in your life?
+Have you noticed a rapid heartbeat or palpitations?
+Have you been dealing with anxiety or tension recently?
+Do you face any sleep problems or difficulties falling asleep?
+Have you been dealing with anxiety or tension recently (Sleep/Anxiety distinction)
+Have you been getting headaches more often than usual?
+Do you get irritated easily?
+Do you have trouble concentrating on your academic tasks?
+Have you been feeling sadness or low mood?
+Have you been experiencing any illness or health issues?
+Do you often feel lonely or isolated?
+Do you feel overwhelmed with your academic workload?
+Are you in competition with your peers, and does it affect you?
+Do you find that your relationship often causes you stress?
+Are you facing any difficulties with your professors or instructors?
+Is your working environment unpleasant or stressful?
+Do you struggle to find time for relaxation and leisure activities?
+Is your hostel or home environment causing you difficulties?
+Do you lack confidence in your academic performance?
+Do you lack confidence in your choice of academic subjects?
+Academic and extracurricular activities conflicting for you?
+Do you attend classes regularly?
+Have you gained/lost weight?
